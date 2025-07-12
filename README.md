@@ -29,7 +29,7 @@ The **Stock Market Sentiment Analysis** project leverages machine learning to an
 
 ```sh
 $ git clone https://github.com/Yadhavaramanan/Stock_Market_Sentiment_Analysis.git
-
+```
 ## Future Enhancements
 
 - Deep Learning models (LSTMs, Transformers) for better accuracy
@@ -42,10 +42,9 @@ We welcome contributions! Feel free to fork the repo and submit pull requests.
 
 ## License
 
-This project is personal and hands-on experience.
+This project is personal and for hands-on experience.
 
-```
----
 
 Developed by Yadhavaramanan C
 
+---
